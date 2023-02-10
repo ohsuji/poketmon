@@ -1,10 +1,10 @@
-# REACT - API 이용하기
+# 🐰 REACT - API 이용하기
+## React Hook - useState, useEffect | async/await 사용
 
 ### API URL (https://pokeapi.co/)
-
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/110226420/218090394-b0ec48f8-d548-4485-a628-fde02c7d6ba2.png">
 
-
+<br>
 
 ### Site URL (https://poketmon0.netlify.app/)
 - 왼쪽에 20개씩 카드 배열
